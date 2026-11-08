@@ -1,4 +1,5 @@
 # Whitepaper - Secure and Decentralized Retrofit for Industrial IoT Devices
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24062294.svg)](https://doi.org/10.5281/zenodo.24062294)
 
 **Author:** Tiziano Ciccone 
 **Version:** 0.5  
